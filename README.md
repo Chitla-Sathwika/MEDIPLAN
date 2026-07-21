@@ -66,22 +66,9 @@ mediplain/
 
 ---
 
-## Local Setup & Configuration
-
-### Prerequisites
-- [Node.js](https://nodejs.org/) (v18 or higher recommended)
-- [MongoDB](https://www.mongodb.com/) (local instance running on `127.0.0.1:27017` or a MongoDB Atlas URI)
-
 ### Backend Configuration
 1. Navigate to the `backend` directory.
-2. Create a `.env` file based on `.env.example`:
-   ```env
-   PORT=5000
-   MONGODB_URI=mongodb://127.0.0.1:27017/mediplain
-   JWT_SECRET=super_secret_mediplain_dev_key_12345
-   GEMINI_API_KEY=your_gemini_api_key_here
-   NODE_ENV=development
-   ```
+2. Create a `.env` file based :
 3. Install dependencies:
    ```bash
    npm install
@@ -89,8 +76,6 @@ mediplain/
 4. Seed the database with multilingual sample data (Medicines, Tests, Diseases, and Default Accounts):
    ```bash
    npm run seed
-   ```
-   *Note:* Seeding creates a default user account (`user@mediplain.com` / `user123`) and an admin account (`admin@mediplain.com` / `admin123`).
 5. Start the backend development server:
    ```bash
    npm run dev
@@ -110,6 +95,3 @@ mediplain/
 
 ---
 
-## Verification & Walkthroughs
-
-A detailed description of code files and implementation walkthroughs is located in the [walkthrough.md](file:///C:/Users/sathw/.gemini/antigravity/brain/78a2a588-6c05-49e3-9fe8-cf9213b84ffe/walkthrough.md) artifact, located inside the workspace conversation brain directory.
