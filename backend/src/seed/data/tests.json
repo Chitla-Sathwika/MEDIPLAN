@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Complete Blood Count",
+    "purpose": "To evaluate overall health and detect a wide range of disorders, including anemia, infection, and leukemia.",
+    "sampleType": "Blood (Venous)",
+    "normalRange": "Hemoglobin: 13.8-17.2 g/dL (Men), 12.1-15.1 g/dL (Women); WBC: 4,500-11,000 cells/mcL; Platelets: 150,000-450,000/mcL",
+    "highMeaning": "High WBC indicates infection or inflammation. High Hemoglobin (polycythemia) can be due to dehydration or smoking. High Platelets (thrombocytosis) raises blood clot risks.",
+    "lowMeaning": "Low Hemoglobin indicates anemia. Low WBC (leukopenia) indicates weakened immunity. Low Platelets (thrombocytopenia) leads to easy bruising/bleeding.",
+    "preparation": "No fasting required. Wear short sleeves or loose clothing.",
+    "category": "Hematology",
+    "keywords": ["cbc", "hemoglobin", "wbc", "platelets", "blood test", "anemia", "infection", "complete blood count"],
+    "translations": {
+      "hi": {
+        "name": "कम्पलीट ब्लड काउंट (CBC)",
+        "purpose": "समग्र स्वास्थ्य का मूल्यांकन करने और एनीमिया, संक्रमण और ल्यूकेमिया सहित विकारों की एक विस्तृत श्रृंखला का पता लगाने के लिए।",
+        "sampleType": "रक्त (खून)",
+        "normalRange": "हीमोग्लोबिन: 13.8-17.2 g/dL (पुरुष), 12.1-15.1 g/dL (महिला); WBC: 4,500-11,000; प्लेटलेट्स: 150,000-450,000",
+        "highMeaning": "उच्च WBC संक्रमण या सूजन का संकेत देता है। उच्च हीमोग्लोबिन निर्जलीकरण या धूम्रपान के कारण हो सकता है। उच्च प्लेटलेट्स से थक्का जमने का खतरा बढ़ जाता है।",
+        "lowMeaning": "कम हीमोग्लोबिन एनीमिया (खून की कमी) को दर्शाता है। कम WBC कमजोर प्रतिरक्षा का संकेत देता है। कम प्लेटलेट्स से आसानी से खरोंच/रक्तस्राव होता है।",
+        "preparation": "फास्टिंग (खाली पेट रहने) की आवश्यकता नहीं है। ढीले कपड़े पहनें।"
+      },
+      "te": {
+        "name": "కంప్లీట్ బ్లడ్ కౌంట్ (CBC)",
+        "purpose": "మొత్తం ఆరోగ్యాన్ని అంచనా వేయడానికి మరియు రక్తహీనత, ఇన్ఫెక్షన్ మరియు లుకేమియాతో సహా అనేక రకాల రుగ్మతలను గుర్తించడానికి.",
+        "sampleType": "రక్తం (సిరల ద్వారా)",
+        "normalRange": "హిమోగ్లోబిన్: 13.8-17.2 g/dL (పురుషులు), 12.1-15.1 g/dL (స్త్రీలు); WBC: 4,500-11,000; ప్లేట్‌లెట్లు: 150,000-450,000",
+        "highMeaning": "ఎక్కువ WBC ఇన్ఫెక్షన్ లేదా వాపును సూచిస్తుంది. ఎక్కువ హిమోగ్లోబిన్ డీహైడ్రేషన్ లేదా ధూమపానం వల్ల కావచ్చు. ఎక్కువ ప్లేట్‌లెట్లు రక్తం గడ్డకట్టే ప్రమాదాన్ని పెంచుతాయి.",
+        "lowMeaning": "తక్కువ హిమోగ్లోబిన్ రక్తహీనతను (రక్తం తక్కువగా ఉండటం) సూచిస్తుంది. తక్కువ WBC రోగనిరోధక శక్తి బలహీనపడటాన్ని సూచిస్తుంది. తక్కువ ప్లేట్‌లెట్లు సులభంగా రక్తం కారడం లేదా కమిలిపోవడానికి దారితీస్తాయి.",
+        "preparation": "ఉపవాసం (ఫాస్టింగ్) అవసరం లేదు. వదులుగా ఉండే బట్టలు ధరించండి."
+      }
+    }
+  },
+  {
+    "name": "HbA1c Test",
+    "purpose": "To measure average blood glucose levels over the past 2-3 months to diagnose and monitor diabetes.",
+    "sampleType": "Blood (Venous or Fingerstick)",
+    "normalRange": "Below 5.7% (Normal), 5.7% to 6.4% (Prediabetes), 6.5% or higher (Diabetes)",
+    "highMeaning": "High HbA1c (6.5%+) indicates poor glycemic control and presence of Diabetes. Pre-diabetes levels warn of high risk of progressing to full diabetes.",
+    "lowMeaning": "Usually not clinically significant. Low levels can sometimes occur in pregnancy, blood loss anemia, or chronic kidney disease.",
+    "preparation": "No fasting required. Can be done at any time of the day.",
+    "category": "Endocrinology",
+    "keywords": ["hba1c", "diabetes", "glycated hemoglobin", "average sugar", "glucose test", "sugar test"],
+    "translations": {
+      "hi": {
+        "name": "एचबीए1सी टेस्ट (HbA1c)",
+        "purpose": "मधुमेह के निदान और निगरानी के लिए पिछले 2-3 महीनों में औसत रक्त शर्करा के स्तर को मापना।",
+        "sampleType": "रक्त",
+        "normalRange": "5.7% से कम (सामान्य), 5.7% से 6.4% (प्री-डायबिटीज), 6.5% या अधिक (डायबिटीज)",
+        "highMeaning": "उच्च HbA1c (6.5%+) खराब शर्करा नियंत्रण और मधुमेह (डायबिटीज) की उपस्थिति को दर्शाता है।",
+        "lowMeaning": "आमतौर पर कोई नैदानिक महत्व नहीं है। कभी-कभी गर्भावस्था या रक्त की गंभीर कमी में निम्न स्तर दिखाई देते हैं।",
+        "preparation": "फास्टिंग की आवश्यकता नहीं है। दिन के किसी भी समय किया जा सकता है।"
+      },
+      "te": {
+        "name": "హెచ్‌బిఎ1సి పరీక్ష (HbA1c)",
+        "purpose": "డయాబెటిస్‌ను గుర్తించడానికి మరియు పర్యవేక్షించడానికి గత 2-3 నెలలుగా సగటు రక్తంలో గ్లూకోజ్ స్థాయిలను కొలవడం.",
+        "sampleType": "రక్తం",
+        "normalRange": "5.7% కంటే తక్కువ (సాధారణం), 5.7% నుండి 6.4% (ప్రీ-డయాబెటిస్), 6.5% లేదా అంతకంటే ఎక్కువ (డయాబెటిస్)",
+        "highMeaning": "ఎక్కువ HbA1c (6.5%+) రక్తంలో చక్కెర నియంత్రణ సరిగ్గా లేకపోవడాన్ని మరియు డయాబెటిస్ ఉన్నట్లు సూచిస్తుంది.",
+        "lowMeaning": "సాధారణంగా దీనికి క్లినికల్ ప్రాముఖ్యత లేదు. గర్భధారణ సమయంలో లేదా తీవ్ర రక్తనష్టం జరిగినప్పుడు అప్పుడప్పుడు తక్కువగా రావచ్చు.",
+        "preparation": "ఉపవాసం అవసరం లేదు. రోజులో ఏ సమయంలోనైనా చేయవచ్చు."
+      }
+    }
+  },
+  {
+    "name": "Lipid Profile",
+    "purpose": "To assess cardiovascular health by measuring cholesterol and triglycerides levels in the blood.",
+    "sampleType": "Blood (Venous)",
+    "normalRange": "Total Cholesterol: <200 mg/dL; LDL (Bad): <100 mg/dL; HDL (Good): >40 mg/dL; Triglycerides: <150 mg/dL",
+    "highMeaning": "High Total Cholesterol and LDL levels increase the risk of plaque build-up in arteries, leading to heart attacks or strokes.",
+    "lowMeaning": "Low HDL (Good cholesterol) increases cardiovascular risk. Low total cholesterol is rare but can relate to malnutrition or hyperthyroidism.",
+    "preparation": "Fasting required for 9 to 12 hours before the sample is collected. Only water is permitted.",
+    "category": "Cardiology",
+    "keywords": ["lipid", "cholesterol", "ldl", "hdl", "triglycerides", "heart health", "fat test"],
+    "translations": {
+      "hi": {
+        "name": "लिपिड प्रोफाइल (Lipid Profile)",
+        "purpose": "रक्त में कोलेस्ट्रॉल और ट्राइग्लिसराइड्स के स्तर को मापकर हृदय स्वास्थ्य का आकलन करना।",
+        "sampleType": "रक्त",
+        "normalRange": "कुल कोलेस्ट्रॉल: <200 mg/dL; LDL (खराब): <100; HDL (अच्छा): >40; ट्राइग्लिसराइड्स: <150",
+        "highMeaning": "उच्च कुल कोलेस्ट्रॉल और एलडीएल स्तर धमनियों में रुकावट (प्लाक) का खतरा बढ़ाते हैं, जिससे दिल का दौरा पड़ सकता है।",
+        "lowMeaning": "कम एचडीएल (अच्छा कोलेस्ट्रॉल) हृदय रोगों के जोखिम को बढ़ाता है।",
+        "preparation": "खून का नमूना लेने से पहले 9 से 12 घंटे का उपवास (फास्टिंग) आवश्यक है। केवल पानी की अनुमति है।"
+      },
+      "te": {
+        "name": "లిపిడ్ ప్రొఫైల్ (Lipid Profile)",
+        "purpose": "రక్తంలో కొలెస్ట్రాల్ మరియు ట్రైగ్లిజరైడ్స్ స్థాయిలను కొలవడం ద్వారా గుండె ఆరోగ్యాన్ని అంచనా వేయడం.",
+        "sampleType": "రక్తం",
+        "normalRange": "మొత్తం కొలెస్ట్రాల్: <200 mg/dL; LDL (చెడు): <100; HDL (మంచి): >40; ట్రైగ్లిజరైడ్స్: <150",
+        "highMeaning": "ఎక్కువ కొలెస్ట్రాల్ మరియు LDL స్థాయిలు గుండె ధమనులలో కొవ్వు పేరుకుపోయేలా చేసి హార్ట్ ఎటాక్ లేదా స్ట్రోక్ ప్రమాదాన్ని పెంచుతాయి.",
+        "lowMeaning": "తక్కువ HDL (మంచి కొలెస్ట్రాల్) గుండె జబ్బుల ప్రమాదాన్ని పెంచుతుంది.",
+        "preparation": "రక్త నమూనా సేకరించడానికి ముందు 9 నుండి 12 గంటల పాటు ఉపవాసం ఉండాలి. కేవలం నీరు మాత్రమే త్రాగవచ్చు."
+      }
+    }
+  }
+]

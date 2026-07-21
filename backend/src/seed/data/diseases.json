@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Hypertension",
+    "symptoms": "Often asymptomatic (called the 'silent killer'). Severe cases can cause headaches, shortness of breath, nosebleeds, or dizziness.",
+    "causes": "Primary hypertension (no identifiable cause, develops over years). Secondary hypertension (caused by kidney disease, thyroid problems, or medications).",
+    "riskFactors": "Older age, family history, obesity, lack of physical activity, tobacco use, high-sodium diet, chronic stress.",
+    "diagnosis": "Regular blood pressure monitoring (readings consistently above 130/80 mmHg).",
+    "treatment": "Lifestyle changes (low-salt diet, exercise, weight loss) and antihypertensive medications (ACE inhibitors, beta-blockers, calcium channel blockers).",
+    "prevention": "Maintain a healthy weight, eat a balanced diet low in sodium, exercise regularly, limit alcohol, avoid tobacco.",
+    "emergencySymptoms": "Severe chest pain, crushing headache, confusion, blurred vision, difficulty breathing, numbness or difficulty speaking.",
+    "keywords": ["bp", "blood pressure", "hypertension", "high bp", "silent killer", "chest pain", "dizziness"],
+    "translations": {
+      "hi": {
+        "name": "उच्च रक्तचाप (Hypertension)",
+        "symptoms": "अक्सर कोई लक्षण नहीं होते (इसे 'साइलेंट किलर' कहा जाता है)। गंभीर मामलों में सिरदर्द, सांस लेने में तकलीफ, या चक्कर आना हो सकता है।",
+        "causes": "प्राथमिक उच्च रक्तचाप (कोई स्पष्ट कारण नहीं, सालों में विकसित होता है)। माध्यमिक (किडनी रोग या थायराइड समस्याओं के कारण)।",
+        "riskFactors": "बढ़ती उम्र, पारिवारिक इतिहास, मोटापा, शारीरिक निष्क्रियता, धूम्रपान, भोजन में अधिक नमक, तनाव।",
+        "diagnosis": "नियमित रूप से रक्तचाप की निगरानी (लगातार 130/80 mmHg से अधिक रीडिंग)।",
+        "treatment": "जीवनशैली में बदलाव (कम नमक वाला आहार, व्यायाम) और दवाएं (बीटा-ब्लॉकर्स, एसीई इनहिबिटर्स)।",
+        "prevention": "स्वस्थ वजन बनाए रखें, कम नमक वाला संतुलित आहार लें, नियमित व्यायाम करें, तंबाकू से बचें।",
+        "emergencySymptoms": "सीने में तेज दर्द, सिर चकराना, भ्रम की स्थिति, धुंधला दिखाई देना, सांस लेने में अत्यधिक कठिनाई।"
+      },
+      "te": {
+        "name": "అధిక రక్తపోటు (Hypertension)",
+        "symptoms": "తరచుగా ఎటువంటి లక్షణాలు ఉండవు (దీనిని 'సైలెంట్ కిల్లర్' అంటారు). తీవ్రమైన సందర్భాల్లో తలనొప్పి, శ్వాస ఆడకపోవడం, ముక్కు నుండి రక్తం కారడం లేదా కళ్ళు తిరగడం సంభవించవచ్చు.",
+        "causes": "ప్రైమరీ హైపర్‌టెన్షన్ (స్పష్టమైన కారణం లేకుండా, సంవత్సరాలుగా పెరుగుతుంది). సెకండరీ హైపర్‌టెన్షన్ (మూత్రపిండాల వ్యాధి, థైరాయిడ్ సమస్యల వల్ల వస్తుంది).",
+        "riskFactors": "వయసు పెరగడం, కుటుంబ చరిత్ర, ఊబకాయం, శారీరక శ్రమ లేకపోవడం, పొగాకు వాడకం, ఉప్పు ఎక్కువ తినడం, దీర్ఘకాలిక ఒత్తిడి.",
+        "diagnosis": "క్రమం తప్పకుండా రక్తపోటును కొలవడం (రీడింగులు నిరంతరం 130/80 mmHg కంటే ఎక్కువగా ఉండటం).",
+        "treatment": "జీవనశైలి మార్పులు (తక్కువ ఉప్పు ఆహారం, వ్యాయామం, బరువు తగ్గడం) మరియు రక్తపోటును తగ్గించే మందులు.",
+        "prevention": "ఆరోగ్యకరమైన బరువును నిర్వహించండి, ఉప్పు తక్కువగా ఉండే సమతుల్య ఆహారం తీసుకోండి, క్రమం తప్పకుండా వ్యాయామం చేయండి.",
+        "emergencySymptoms": "తీవ్రమైన గుండెనొప్పి, విపరీతమైన తలనొప్పి, అయోమయం, చూపు మందగించడం, శ్వాస తీసుకోవడంలో ఇబ్బంది."
+      }
+    }
+  },
+  {
+    "name": "Type 2 Diabetes",
+    "symptoms": "Increased thirst, frequent urination, extreme hunger, unexplained weight loss, fatigue, blurry vision, slow-healing sores.",
+    "causes": "The body becomes resistant to insulin or the pancreas fails to produce enough insulin to maintain normal glucose levels.",
+    "riskFactors": "Obesity, physical inactivity, genetics/family history, age over 45, high blood pressure, high cholesterol.",
+    "diagnosis": "Fast Blood Glucose (>= 126 mg/dL), Random Blood Glucose (>= 200 mg/dL), or HbA1c (>= 6.5%).",
+    "treatment": "Healthy eating, regular exercise, weight loss, blood sugar monitoring, diabetes medications (Metformin, Insulin therapy).",
+    "prevention": "Eat healthy foods, get active, lose excess weight, avoid sitting for long periods.",
+    "emergencySymptoms": "Diabetic ketoacidosis signs: extreme thirst, rapid breathing, sweet or fruity breath, confusion, nausea/vomiting, loss of consciousness.",
+    "keywords": ["sugar", "diabetes", "type 2 diabetes", "glucose", "insulin", "frequent urination"],
+    "translations": {
+      "hi": {
+        "name": "टाइप 2 मधुमेह (Type 2 Diabetes)",
+        "symptoms": "अत्यधिक प्यास लगना, बार-बार पेशाब आना, अत्यधिक भूख, बिना कारण वजन कम होना, थकान, धुंधली दृष्टि।",
+        "causes": "शरीर इंसुलिन के प्रति प्रतिरोधी हो जाता है या अग्न्याशय सामान्य शर्करा स्तर बनाए रखने के लिए पर्याप्त इंसुलिन नहीं बनाता है।",
+        "riskFactors": "मोटापा, शारीरिक निष्क्रियता, आनुवंशिकी/पारिवारिक इतिहास, 45 वर्ष से अधिक आयु, उच्च रक्तचाप।",
+        "diagnosis": "फास्टिंग ब्लड ग्लूकोज (>= 126 mg/dL) या HbA1c (>= 6.5%)।",
+        "treatment": "स्वस्थ खान-पान, नियमित व्यायाम, वजन कम करना, रक्त शर्करा की निगरानी, दवाएं (जैसे मेटफॉर्मिन)।",
+        "prevention": "स्वस्थ भोजन लें, सक्रिय रहें, अतिरिक्त वजन कम करें, लंबे समय तक बैठने से बचें।",
+        "emergencySymptoms": "अत्यधिक प्यास, तेजी से सांस लेना, सांसों से मीठी गंध आना, भ्रम, मतली/उल्टी, बेहोशी।"
+      },
+      "te": {
+        "name": "టైప్ 2 మధుమేహం (Type 2 Diabetes)",
+        "symptoms": "దాహం పెరగడం, తరచుగా మూత్రవిసర్జన, విపరీతమైన ఆకలి, కారణం లేని బరువు తగ్గడం, అలసట, మసక చూపు, గాయాలు నెమ్మదిగా మానడం.",
+        "causes": "శరీరం ఇన్సులిన్‌కు నిరోధకతను పెంచుకుంటుంది లేదా సాధారణ గ్లూకోజ్ స్థాయిలను నిర్వహించడానికి క్లోమం తగినంత ఇన్సులిన్‌ను ఉత్పత్తి చేయడంలో విఫలమవుతుంది.",
+        "riskFactors": "ఊబకాయం, శారీరక శ్రమ లేకపోవడం, జన్యువులు/కుటుంబ చరిత్ర, 45 సంవత్సరాలు దాటడం, అధిక రక్తపోటు.",
+        "diagnosis": "ఫాస్టింగ్ బ్లడ్ గ్లూకోజ్ (>= 126 mg/dL) లేదా HbA1c (>= 6.5%).",
+        "treatment": "ఆరోగ్యకరమైన ఆహారం, క్రమం తప్పకుండా వ్యాయామం, బరువు తగ్గడం, రక్తంలో చక్కెరను పర్యవేక్షించడం, మందులు.",
+        "prevention": "ఆరోగ్యకరమైన ఆహారాన్ని తీసుకోండి, చురుకుగా ఉండండి, అదనపు బరువును తగ్గించుకోండి.",
+        "emergencySymptoms": "విపరీతమైన దాహం, వేగంగా శ్వాస తీసుకోవడం, శ్వాసలో తీపి వాసన రావడం, అయోమయం, స్పృహ కోల్పోవడం."
+      }
+    }
+  }
+]
